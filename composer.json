@@ -1,0 +1,14 @@
+{
+    "name": "kofacts/php-auth",
+    "description": "A Simple Login,Logout,Forgot Password, Remember password and stuff alike, built with inspiration from Laravel's Sleek Auth System.",
+    "type": "s",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Kofacts",
+            "email": "obodugorapheal@gmail.com"
+        }
+    ],
+    "minimum-stability": "RC",
+    "require": {}
+}
